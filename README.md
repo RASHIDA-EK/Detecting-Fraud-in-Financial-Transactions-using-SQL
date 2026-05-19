@@ -38,7 +38,8 @@ WHERE isFraud = 1
 GROUP BY type
 ORDER BY fraud_count DESC;
 
-## Dataset
+
+Dataset
 
 Dataset used:
 PaySim Synthetic Financial Dataset For Fraud Detection
