@@ -37,3 +37,11 @@ FROM transactions
 WHERE isFraud = 1
 GROUP BY type
 ORDER BY fraud_count DESC;
+
+## Dataset
+
+Dataset used:
+PaySim Synthetic Financial Dataset For Fraud Detection
+
+Source:
+https://www.kaggle.com/datasets/ealaxi/paysim1
